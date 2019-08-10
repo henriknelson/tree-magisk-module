@@ -1,0 +1,6 @@
+id=tree-ndk
+name=tree for Android
+version=v1.8.0
+versionCode=1
+author=nelshh
+description=A statically built version of the tree tool for android (aarch64)
